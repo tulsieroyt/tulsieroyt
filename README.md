@@ -1,7 +1,4 @@
 
-<div align="center">
-  <img height="150" src="https://github.com/tulsieroyt/tulsieroyt/assets/128843282/7523e9fe-a1d6-4739-b991-a7a54794f0f2"  />
-</div>
 
 ###
 
